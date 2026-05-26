@@ -2,9 +2,9 @@
 
 # Hey, I'm Kushagra Pandey 👋
 
-### I build full-stack products with a mix of software engineering, cloud, AI, and storytelling.
+### I build full-stack products with software, cloud, AI, and storytelling.
 
-I’m a Computer Science graduate from Arizona State University who enjoys turning rough ideas into real products — the kind with working backends, clean user flows, useful automation, and a clear reason to exist.
+I’m a Computer Science graduate from Arizona State University who enjoys turning rough ideas into real products with working backends, clean user flows, useful automation, and a clear reason to exist.
 
 <br/>
 
@@ -28,7 +28,7 @@ I like building products that solve practical problems.
 
 Some of my work has focused on legal-tech automation, AI-assisted matchmaking, database-backed price tracking, cloud workflows, and full-stack applications. I’m especially drawn to projects where software can reduce manual work, make decisions easier, or turn scattered information into something useful.
 
-My background is a little unusual for a developer. Alongside computer science, I studied film and media production, which shaped how I think about software. I care about the system behind the product, but I also care about how the product feels, how clearly it communicates, and whether someone can actually use it without confusion.
+My background is a little unusual for a developer. Alongside computer science, I studied film and media production. That shaped how I think about software. I care about the system behind the product, but I also care about how the product feels, how clearly it communicates, and whether someone can actually use it without confusion.
 
 ---
 
@@ -110,8 +110,8 @@ I keep my core stack focused on the tools I use most for building and shipping f
 
 ## Featured work
 
-### Lyra — AI-Powered Dating App  
-**Senior Capstone Project**
+### Lyra
+**AI-powered dating app | Senior capstone project**
 
 Dating apps often overwhelm users with too many choices and not enough meaningful context. Lyra was built to make discovery feel more intentional, safer, and easier to use.
 
@@ -125,8 +125,8 @@ A working matchmaking platform with personalized recommendations, protected user
 
 ---
 
-### Firmlytic Solutions  
-**Founder | AI-Driven Legal Platform**
+### Firmlytic Solutions
+**AI-driven legal platform | Founder**
 
 Legal and administrative workflows often involve repetitive document handling, scattered files, and time-consuming manual processes. Firmlytic was built to make that work faster and more structured.
 
@@ -140,8 +140,8 @@ Served 500+ daily active users, reduced manual document work by 40%, and support
 
 ---
 
-### Grocery Price Tracking Application  
-**Database Management Project**
+### Grocery Price Tracking Application
+**Database management project | Full-stack system**
 
 Grocery prices change constantly, but users rarely have a simple way to compare baskets across stores or track unusual price changes.
 
@@ -161,7 +161,7 @@ Before I started thinking seriously about software products, I spent years aroun
 
 That experience still affects how I build. I like products with a clear story. I like interfaces that feel intentional. I like demos that make sense without needing a long explanation. And I like engineering work that can be shown, used, and understood by real people.
 
-That mix — engineering plus storytelling — is the part of my background I’m most proud of.
+That mix of engineering and storytelling is the part of my background I’m most proud of.
 
 ---
 
