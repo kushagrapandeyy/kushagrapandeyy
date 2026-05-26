@@ -1,181 +1,176 @@
 <div align="center">
 
-# Hi, I'm Kushagra Pandey 👋
+# Hey, I'm Kushagra Pandey 👋
 
-### Software Engineer • Full-Stack Builder • Cloud & AI Product Developer
+### I build full-stack products with a mix of software engineering, cloud, AI, and storytelling.
 
-I build software that turns messy real-world problems into simple, usable systems.
-
-From legal-tech automation to AI-powered matchmaking, I like creating products that are not just technically functional, but clear, reliable, and useful for real people.
+I’m a Computer Science graduate from Arizona State University who enjoys turning rough ideas into real products — the kind with working backends, clean user flows, useful automation, and a clear reason to exist.
 
 <br/>
 
 <a href="https://www.kushagrapandey.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-kushagrapandey.com-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/kushagrapandeyy">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Kushagra%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:kushagrapandeyy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## What I Do
+## A little about me
 
-I am a Computer Science graduate from Arizona State University with a background in software engineering, cloud systems, AI-assisted products, and film/media production.
+I like building products that solve practical problems.
 
-That mix shapes how I build.
+Some of my work has focused on legal-tech automation, AI-assisted matchmaking, database-backed price tracking, cloud workflows, and full-stack applications. I’m especially drawn to projects where software can reduce manual work, make decisions easier, or turn scattered information into something useful.
 
-I care about:
-
-- turning unclear problems into structured products
-- building systems that are easy to use and easy to explain
-- writing backend logic that actually supports real workflows
-- designing user experiences that feel clean, direct, and purposeful
-- shipping projects that show ownership from idea to deployment
+My background is a little unusual for a developer. Alongside computer science, I studied film and media production, which shaped how I think about software. I care about the system behind the product, but I also care about how the product feels, how clearly it communicates, and whether someone can actually use it without confusion.
 
 ---
 
-## My Engineering Style
+## What I like building
 
-I do not just build features. I try to understand the problem behind them.
-
-| Problem I Care About | How I Usually Solve It |
-|---|---|
-| Users are overwhelmed by too many choices | Build ranking, filtering, and recommendation systems |
-| Teams waste time on repetitive manual work | Automate workflows with APIs and cloud tools |
-| Products feel confusing or unfinished | Design clearer user flows and cleaner interfaces |
-| Data is scattered or slow to access | Create structured databases and efficient queries |
-| Ideas stay stuck as prototypes | Build full-stack systems that can actually run |
+- Full-stack products that move from idea to working demo
+- Backend systems that support real user workflows
+- AI-assisted tools that reduce repetitive work
+- Cloud-backed applications that are reliable and secure
+- Interfaces that feel simple, clean, and intentional
+- Products with a clear story behind them
 
 ---
 
-## Featured Projects
+## Main stack
+
+I keep my core stack focused on the tools I use most for building and shipping full-stack products.
+
+<br/>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br><strong>Python</strong>
+      <br><sub>Backend logic, APIs, AI workflows</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br><strong>TypeScript</strong>
+      <br><sub>Safer frontend and app logic</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br><strong>React</strong>
+      <br><sub>Clean product interfaces</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br><strong>FastAPI</strong>
+      <br><sub>REST APIs and services</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+      <br><sub>Structured product data</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br><strong>AWS</strong>
+      <br><sub>Cloud infrastructure</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
+      <br><strong>Google Cloud</strong>
+      <br><sub>Cloud and ML workflows</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br><strong>Docker</strong>
+      <br><sub>Reproducible deployments</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-Development%20Environment-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/REST%20APIs-Service%20Design-111111?style=flat-square" />
+
+</div>
+
+---
+
+## Featured work
 
 ### Lyra — AI-Powered Dating App  
-**Senior Capstone Project | Full-Stack Product**
+**Senior Capstone Project**
 
-Dating apps often create decision fatigue, weak trust, and shallow matching. Lyra was built to make discovery feel more intentional, safer, and easier to use.
+Dating apps often overwhelm users with too many choices and not enough meaningful context. Lyra was built to make discovery feel more intentional, safer, and easier to use.
 
-**What I built:**
+I worked on the full-stack architecture, backend APIs, recommendation logic, onboarding flow, authentication, profile discovery, and demo-ready product experience.
 
-- Designed the full-stack architecture for onboarding, profiles, matching, and messaging
-- Built backend APIs for user flows, recommendations, authentication, and profile discovery
-- Created an AI-assisted ranking system to improve match relevance
-- Added protected routes and backend validation to make user actions safer
-- Helped shape the product from idea to working capstone demo
+**Built with:**  
+`FastAPI` `PostgreSQL` `React` `TypeScript` `Python`
 
-**Tech used:**  
-`FastAPI` `PostgreSQL` `React` `TypeScript` `Python` `Expo`
-
-**Outcome:**  
-Built a working matchmaking platform with real product flows, recommendation logic, secure backend routes, and a complete demo-ready user experience.
+**Result:**  
+A working matchmaking platform with personalized recommendations, protected user flows, and a complete product experience from onboarding to discovery.
 
 ---
 
 ### Firmlytic Solutions  
 **Founder | AI-Driven Legal Platform**
 
-Legal and administrative teams often spend too much time on repetitive document work. Firmlytic was built to reduce that manual load through a cloud-backed platform.
+Legal and administrative workflows often involve repetitive document handling, scattered files, and time-consuming manual processes. Firmlytic was built to make that work faster and more structured.
 
-**What I built:**
+I built a cloud-backed legal platform with automated document workflows, serverless APIs, secure storage, and production-focused infrastructure.
 
-- Built an AI-assisted legal platform serving 500+ daily active users
-- Created serverless APIs to automate document workflows
-- Used cloud infrastructure to support secure storage and faster access
-- Added security controls to protect sensitive user data
-- Managed the product from idea, architecture, and development to deployment
-
-**Tech used:**  
+**Built with:**  
 `React` `Node.js` `AWS Lambda` `DynamoDB` `S3` `Cloudflare`
 
-**Outcome:**  
-Reduced manual document work by 40% and helped legal users complete repetitive tasks faster through automation.
+**Result:**  
+Served 500+ daily active users, reduced manual document work by 40%, and supported faster access to legal workflow tools.
 
 ---
 
 ### Grocery Price Tracking Application  
-**Database Management Project | Full-Stack System**
+**Database Management Project**
 
-Grocery prices change constantly, but users rarely have a simple way to compare stores, track baskets, or notice unusual price jumps.
+Grocery prices change constantly, but users rarely have a simple way to compare baskets across stores or track unusual price changes.
 
-**What I built:**
+I built a full-stack price monitoring system with basket tracking, store comparison, watchlists, alerts, and database queries designed for fast lookup.
 
-- Designed a full-stack price tracking application
-- Built basket tracking so users could compare total costs across stores
-- Created watchlists and alert flows for price changes
-- Designed database queries for faster search and comparison
-- Added anomaly detection logic to highlight unusual price movement
-
-**Tech used:**  
+**Built with:**  
 `PostgreSQL` `Node.js` `React`
 
-**Outcome:**  
-Built a query-focused system that made price comparison, basket monitoring, and alerting easier for users.
+**Result:**  
+A working system for comparing prices, monitoring shopping baskets, and detecting unusual price movement.
 
 ---
 
-## Tech I Use
+## Beyond code
 
-<div align="center">
+Before I started thinking seriously about software products, I spent years around film, media, and production.
 
-### Languages  
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,swift" />
+That experience still affects how I build. I like products with a clear story. I like interfaces that feel intentional. I like demos that make sense without needing a long explanation. And I like engineering work that can be shown, used, and understood by real people.
 
-### Frontend  
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css" />
-
-### Backend & APIs  
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,spring" />
-
-### Cloud, Databases & Tools  
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mongodb,mysql,redis,git,linux" />
-
-</div>
+That mix — engineering plus storytelling — is the part of my background I’m most proud of.
 
 ---
 
-## What Makes My Background Different
-
-I come from both engineering and creative production.
-
-That means I do not only think about whether a system works. I also think about how it is presented, how users move through it, and whether the story of the product is clear.
-
-My background includes:
-
-- Computer Science at Arizona State University
-- Film and Media Studies minor
-- Founder experience building a legal-tech platform
-- Full-stack capstone leadership
-- Production experience with ASU Enterprise Brand & Strategy Management
-- Hands-on work across software, cloud, AI, design, and storytelling
-
-This combination helps me build products that are technically grounded and easy for people to understand.
-
----
-
-## Current Focus
-
-I am currently focused on:
-
-- full-stack software engineering
-- backend systems and APIs
-- cloud deployment and infrastructure
-- AI-assisted product features
-- data structures, algorithms, and system design
-- building projects that solve real user problems
-
----
-
-## Quick Snapshot
+## Currently focused on
 
 ```txt
-Location: Tempe, Arizona
-Education: B.S. Computer Science, Arizona State University
-Interests: Software Engineering, Cloud Systems, AI Products, Full-Stack Development
-Strengths: Product ownership, backend logic, cloud workflows, clean user experience
-Goal: Build reliable software that solves practical problems at scale
+Building full-stack products
+Writing stronger backend systems
+Improving cloud deployment workflows
+Designing AI-assisted product features
+Practicing system design and algorithms
+Making software easier to use and easier to explain
