@@ -29,9 +29,7 @@ I am a Computer Science graduate from Arizona State University, focused on build
 
 My work has included legal-tech automation, AI-powered matchmaking, price tracking tools, interactive data visualization, portfolio systems, and production-ready web applications.
 
-I come from both software and creative production, so I care about more than whether something technically works. I care about how it feels, how it moves, how clearly it explains itself, and whether the user understands the product without needing a walkthrough.
-
-That is the kind of software I like building.
+I come from both software and creative production, so I understand the value of products that are more impact focused.
 
 ---
 
